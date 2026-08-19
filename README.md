@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @NkululekoHlatshwayo
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning computer science and programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : via email address 
-- 😄 Pronouns: He and Him
-- ⚡ Fun fact: I will be the best coder
+ About Me
+I’m a Computer Science student passionate about software engineering and programming.
 
-<!---
-NkululekoHlatshwayo/NkululekoHlatshwayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently learning data structures, algorithms, and web development.
+
+I enjoy solving problems and building projects that make life easier.
+
+I’m open to collaborating on open-source projects, web apps, or anything that helps me grow as a developer.
+
+How to reach me.
+Email: hlatshwayonkululeko60@gmail.com
+LinkedIn: www.linkedin.com/in/nkululeko-hlatshwayo-266406270
+
+Pronouns
+He / Him
+
+
